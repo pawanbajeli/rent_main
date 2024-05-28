@@ -9,7 +9,7 @@ const app = express();
 app.use(cors({
     origin: [
         'http://localhost:3000',
-        'https://rent-ezbm.vercel.app'
+        'https://rent-main.vercel.app/'
     ]
 }));
 
